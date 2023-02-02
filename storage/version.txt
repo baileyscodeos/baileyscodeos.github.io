@@ -1,1 +1,1 @@
-{"version": "3.0", "release_date": "02/02/2023", "changes_user": "False", "force": "False", "short_description": "Fixes And Changed To Version 3", "long_description": "Fixed The installer playsound package\nChanged To Version 3 Because I wanted too to celabrate the new website and because the version 2.8 was giving me floting point precision problems"}
+{"version": "3.1", "release_date": "02/02/2023", "changes_user": "False", "force": "False", "short_description": "Fix Code OS Installer Web URL", "long_description": "Fix Code OS Installer Web URL"}
