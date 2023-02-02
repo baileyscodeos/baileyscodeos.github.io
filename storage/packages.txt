@@ -1,0 +1,1 @@
+['psutil', 'pywin32', 'clipboard', 'requests', 'opencv-python', 'moviepy', 'Send2Trash', 'winshell', 'tkinterweb', 'yt-dlp']

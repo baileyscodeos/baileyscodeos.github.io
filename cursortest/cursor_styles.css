@@ -1,0 +1,15 @@
+* {
+    cursor: url('/cursors/aero_arrow.png'), auto;
+}
+button {
+    cursor: url('/cursors/aero_link.png'), auto;
+}
+a {
+    cursor: url('/cursors/aero_link.png'), auto;
+}
+textarea {
+    cursor: url('/cursors/otherspng/beam_r.png') 15 15, move;
+}
+p {
+    cursor: url('/cursors/otherspng/beam_r.png') 15 15, move;
+}

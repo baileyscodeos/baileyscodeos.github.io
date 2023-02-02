@@ -1,0 +1,1 @@
+{"Description":"This is an app that will let you change the theme of Code OS (Vista By Default)!\nIf It Freezes Or Has A Error Just Close It And Retry Or Else Some Glitches May Happen!"}
