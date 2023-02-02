@@ -1,1 +1,1 @@
-{'version': '2.7', 'release_date': '02/02/2023', 'changes_user': 'False', 'force': 'True', 'short_description': 'Fixes Code OS For The New Website', 'long_description': 'Fixes Code OS For The New Website'}
+{"version": "2.7", "release_date": "02/02/2023", "changes_user": "False", "force": "True", "short_description": "Fixes Code OS For The New Website", "long_description": "Fixes Code OS For The New Website"}
