@@ -1,1 +1,1 @@
-{"version": "3.5", "release_date": "02/02/2023", "changes_user": "False", "force": "False", "short_description": "Code OS Update Fix Again Again", "long_description": "Code OS Update Fix Again Again"}
+{"version": "3.6", "release_date": "03/02/2023", "changes_user": "False", "force": "False", "short_description": "Fixes Code OS Updates", "long_description": "Fixes The Settings Installation In Code OS Updates"}
