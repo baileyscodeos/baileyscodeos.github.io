@@ -1,1 +1,1 @@
-{"version":"2.6", "release_date":"3/11/2022", "changes_user":"True", "force":"False", "short_description":"Features Update", "long_description":"Adds App Store\nSome Bug Fixes\nNew Features Coming Soon:\nFile Explorer\nMail App"}
+{'version': '2.7', 'release_date': '02/02/2023', 'changes_user': 'False', 'force': 'True', 'short_description': 'Fixes Code OS For The New Website', 'long_description': 'Fixes Code OS For The New Website'}
