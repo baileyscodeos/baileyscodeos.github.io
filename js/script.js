@@ -54,6 +54,7 @@ async function done_load() {
 	document.body.innerHTML += '<p>Version: v' + version + '</p>'
 	document.body.innerHTML += '<p>Release Date: ' + release_date + '</p>'
 	document.body.innerHTML += '<p id="Downloads Count">Downloads: Getting</p>'
+	document.body.innerHTML += '<p>(Downloads Count Currently Unavalable, due to github pages not supporting php)</p>' // Download Count Not Working Message
 	document.body.innerHTML += '<button onclick="get_downloads_count()">Refresh Download Count</button>'
 	document.body.innerHTML += '<p>Sorry This Site Is Not Better It Is My First Site</p>'
 	document.body.innerHTML += '<br>'
