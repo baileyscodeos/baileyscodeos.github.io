@@ -1,1 +1,1 @@
-{"version": "3.7", "release_date": "03/02/2023", "changes_user": "False", "force": "False", "short_description": "Fixes Code OS Updates", "long_description": "Fixes Code OS Updates Moving A Empty Settings Folder"}
+{"version": "3.8", "release_date": "05/02/2023", "changes_user": "False", "force": "False", "short_description": "Add Secret Function", "long_description": "Add Secret Function"}
