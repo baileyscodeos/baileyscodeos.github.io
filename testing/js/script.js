@@ -5,7 +5,7 @@ function on_load() {
     queryString = window.location.search;
 	urlParams = new URLSearchParams(queryString);
 	var pwd = urlParams.get("pwd")
-	if (pwd !== "224539") {
+	if (pwd !== "1406") {
 	    if (pwd == null) {
 	        window.location.href = "no_pwd.html"
 	    } else {
