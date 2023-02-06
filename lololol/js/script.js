@@ -13,8 +13,8 @@ function play() {
 	done_load()
 }
 function rickroll() {
-    document.body.innerHTML += '<video id="rickroll_player" loop width=100% height=100% poster="/images/Play.png" playsinline><source src="/vids/Rick Astley - Never Gonna Give You Up (Official Music Video) [dQw4w9WgXcQ].mp4" type="video/mp4">Your browser does not support the video tag.</video>'
-    //document.body.innerHTML += '<iframe id="rickroll_player" width=100% height=100% src="https://www.youtube.com/embed/dQw4w9WgXcQ?autoplay=1&controls=0&rel=0%loop=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>'
+    //document.body.innerHTML += '<video id="rickroll_player" loop width=100% height=100% poster="/images/Play.png" playsinline><source src="/vids/Rick Astley - Never Gonna Give You Up (Official Music Video) [dQw4w9WgXcQ].mp4" type="video/mp4">Your browser does not support the video tag.</video>'
+    document.body.innerHTML += '<iframe id="rickroll_player" width=100% height=100% src="https://www.youtube.com/embed/dQw4w9WgXcQ?autoplay=1&controls=0&rel=0%loop=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>'
     rickroll_alert()
 }
 async function rickroll_alert() {
