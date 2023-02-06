@@ -19,11 +19,7 @@ function rickroll() {
 }
 async function rickroll_alert() {
     await new Promise(r => setTimeout(r, 1000))
-	if (school == "True") {
-		div_alert("You Got Rickrolled!<br><img src='/images/rickroll.png' alt='Rickroll Image' width=125><br>Check Out The Mirabella Genio Range At<br><a href='https://www.mirabellagenio.com.au/'>https://www.mirabellagenio.com.au/</a>", ["Ok", "See The\nMirabella Genio\nRange"], ["", "open('https://www.mirabellagenio.com.au/')"])
-	} else {
         div_alert("You Got Rickrolled!<br><img src='/images/rickroll.png' alt='Rickroll Image'>", ["Ok"], [""])
-	}
 	document.getElementById("rickroll_player").play()
 }
 function div_alert(Text, Buttons, Buttons_Commands) {
@@ -38,9 +34,6 @@ function div_alert_command(command) {
 }
 function on_load() {
     remove_disclaimer()
-    if (school == "True") {
-        document.getElementById("load_button").innerHTML = "To Begin Your Smart Home Experience,<br>Click Here"
-    }
 }
 function remove_disclaimer() {
     try {
