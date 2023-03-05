@@ -1,1 +1,1 @@
-{"version": "3.9", "release_date": "05/03/2023", "changes_user": "False", "force": "False", "short_description": "TAV Redone", "long_description": "TAV has been redone and inproved. (TAV is my tkinter video player, that is used for the startup videos)"}
+{"version": "4.0", "release_date": "05/03/2023", "changes_user": "False", "force": "False", "short_description": "Fix Updates Info", "long_description": "Fixes Updates Info"}
