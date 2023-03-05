@@ -1,1 +1,1 @@
-{"version": "3.8", "release_date": "05/02/2023", "changes_user": "False", "force": "False", "short_description": "Add Secret Function", "long_description": "Add Secret Function"}
+{"version": "3.9", "release_date": "05/03/2023", "changes_user": "False", "force": "False", "short_description": "TAV Redone", "long_description": "TAV has been redone and inproved. (TAV is my tkinter video player, that is used for the startup videos)"}
