@@ -1,1 +1,1 @@
-{"version": "4.2", "release_date": "07/03/2023", "changes_user": "False", "force": "False", "short_description": "Some Fixes", "long_description": "Fixes Code OS Shutdown And Restart From The Login Screen\nFixes Code OS Auto Update Popup Having A Error When The Updater Is Allready Opened\nMakes The Code OS Auto Update Run Sooner"}
+{"version": "4.3", "release_date": "13/03/2023", "changes_user": "True", "force": "False", "short_description": "Basic Browser!", "long_description": "Adds A Basic Browser (It Does Not Support JavaScript)!\nTabs Are Probably Coming Soon!"}
