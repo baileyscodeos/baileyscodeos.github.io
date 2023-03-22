@@ -1,1 +1,1 @@
-{"version": "4.3", "release_date": "13/03/2023", "changes_user": "True", "force": "False", "short_description": "Basic Browser!", "long_description": "Adds A Basic Browser (It Does Not Support JavaScript)!\nTabs Are Probably Coming Soon!"}
+{"version": "4.4", "release_date": "22/03/2023", "changes_user": "False", "force": "False", "short_description": "Fixes Installer", "long_description": "Fixes The Code OS Installer, playsound2 package not installing to the correct location"}
