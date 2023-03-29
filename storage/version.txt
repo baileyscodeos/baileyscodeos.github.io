@@ -1,1 +1,1 @@
-{"version": "4.6", "release_date": "28/03/2023", "changes_user": "False", "force": "False", "short_description": "Fix TAV Closing Video File", "long_description": "Make TAV Close The Video File, When This Was Not Happening There Was Issues Appling Themes"}
+{"version": "4.7", "release_date": "29/03/2023", "changes_user": "False", "force": "False", "short_description": "Fixes c_apps_reload", "long_description": "Fixes c_apps_reload having the column at 1 that I forgot to change to 2"}
