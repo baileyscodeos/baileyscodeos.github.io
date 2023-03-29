@@ -45,6 +45,10 @@ async function done_load() {
 	document.body.innerHTML += '<button id="downloadButtonOffline" onclick="download_offline()">Download Code OS Offline Files</button>'
 	document.body.innerHTML += '<br>'
 	document.body.innerHTML += '<br>'
+	/*document.body.innerHTML += '<a href="/vids/Code OS Installation.mp4">Code OS Installation Video</a>'
+	document.body.innerHTML += '<a href="/vids/Code OS Full Features.mp4">Code OS Full Features Video</a>'
+	document.body.innerHTML += '<br>'
+	document.body.innerHTML += '<br>'*/
 	var v_response = await fetch('storage/version.txt')
 	var v_data = await v_response.text()
 	var version_data_string = v_data
