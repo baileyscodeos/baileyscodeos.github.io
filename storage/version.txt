@@ -1,1 +1,1 @@
-{"version": "4.7", "release_date": "29/03/2023", "changes_user": "False", "force": "False", "short_description": "Fixes c_apps_reload", "long_description": "Fixes c_apps_reload having the column at 1 that I forgot to change to 2"}
+{"version": "4.8", "release_date": "23/04/2023", "changes_user": "False", "force": "False", "short_description": "Some Features", "long_description": "Basic Browser - Tabs\nTheme Starting Videos Are Now Centered\nRun Will Now Open URLs In Basic Browser Not The System Browser"}
