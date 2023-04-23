@@ -1,1 +1,1 @@
-{"version": "4.8", "release_date": "23/04/2023", "changes_user": "False", "force": "False", "short_description": "Some Features", "long_description": "Basic Browser - Tabs\nTheme Starting Videos Are Now Centered\nRun Will Now Open URLs In Basic Browser Not The System Browser"}
+{"version": "4.9", "release_date": "23/04/2023", "changes_user": "False", "force": "False", "short_description": "Fix Starting Vid Size Not Closing Video", "long_description": "Fixes The Starting Video Size From Not Closing The Video"}
